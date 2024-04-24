@@ -7,12 +7,12 @@ CNNs are designed to process data that has a clear arrangement, like images. The
 
 Our experiments showed that while both networks can tackle similar challenges, the choice between using an ANN or a CNN often depends on the type of data and what the task involves.
 
-2. Which hyper-parameters of the CNN architecture have you fine-tuned?
+## 2. Which hyper-parameters of the CNN architecture have you fine-tuned?
 
 
-3. Which is the role of the activation functions in ANN? Which of them you have implemented?
+## 3. Which is the role of the activation functions in ANN? Which of them you have implemented?
 Illustrate them.
 
 
-4. Can you see any advantages and disadvantages of ANN and CNN used for classification in
+## 4. Can you see any advantages and disadvantages of ANN and CNN used for classification in
 comparison to the other classification algorithms you are familiar with? Give some examples.
