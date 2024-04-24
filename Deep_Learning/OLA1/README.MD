@@ -1,4 +1,4 @@
-1. Based on your experience, how would you define ANN and CNN?
+## 1. Based on your experience, how would you define ANN and CNN?
 Artificial Neural Network (ANN):
 ANNs are like a simplified version of the human brain's network. They consist of layers of nodes, or "neurons," connected together. These networks are flexible and can be used for different tasks like recognizing patterns or sorting data into categories. We found ANNs useful for general problems where the data doesn’t have a specific arrangement or pattern.
 
