@@ -13,8 +13,7 @@ Our experiments showed that while both networks can tackle similar challenges, t
 
 we could also have used learning rate
 
-## 3. Which is the role of the activation functions in ANN? Which of them you have implemented?
-Illustrate them.
+## 3. Which is the role of the activation functions in ANN? Which of them you have implemented?Illustrate them.
 
 
 
