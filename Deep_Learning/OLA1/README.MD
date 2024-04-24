@@ -14,7 +14,7 @@ Our experiments showed that while both networks can tackle similar challenges, t
 we could also have used learning rate
 
 ## 3. Which is the role of the activation functions in ANN? Which of them you have implemented?Illustrate them.
-
+we have used relu which is defined as f(x) = max(0, x), it has become the default activation function for many types of neural networks because it allows models to converge quickly and reduces the likelihood of vanishing gradients.
 
 
 ## 4. Can you see any advantages and disadvantages of ANN and CNN used for classification in comparison to the other classification algorithms you are familiar with? Give some examples.
